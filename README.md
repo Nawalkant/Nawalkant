@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nawalkant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nawal-kant-aa8391199/)](https://www.linkedin.com/in/nawal-kant-aa8391199/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Nawalkant-green)](https://nawalkant.github.io/myprofile/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Nawalkant-yellow)](https://stackoverflow.com/users/17935243/nawal-kant?tab=profile-)
 
 I'm
 Full Stack Solution Architect
