@@ -2,7 +2,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nawalkant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nawal-kant-aa8391199/)](https://www.linkedin.com/in/nawal-kant-aa8391199/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/WebSite-Nawalkant-green)](https://nawalkant.github.io/myprofile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
 I'm
